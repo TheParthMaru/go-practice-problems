@@ -1,8 +1,8 @@
-package main
+package pointersSolutions
 
 import "fmt"
 
-func main() {
+func Solution1() {
 
 	var x int = 10
 
