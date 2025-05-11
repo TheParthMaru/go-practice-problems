@@ -3,7 +3,6 @@ package pointersSolutions
 import "fmt"
 
 func Solution1() {
-
 	var x int = 10
 
 	var ptr *int = &x
