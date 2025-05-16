@@ -17,3 +17,5 @@
 5. Write a function maxMin that accepts two `*int` arguments and returns two int values: the larger and the smaller of the two. In main(), define two variables, call maxMin with their pointers, and print the result.
 
 6. Write a function allocateSlice that takes an integer n and returns a pointer to a new slice of n zero-initialized integers. In main(), call the function with a value like 5, and print the slice via the returned pointer.
+
+7. Write a function cloneInt that accepts a pointer to an integer and returns a pointer to a new copy of that value. In `main()`, define an integer, call cloneInt with its address, and print both the original and the cloned value to verify they are separate memory references.
