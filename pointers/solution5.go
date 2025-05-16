@@ -1,4 +1,4 @@
-package pointersSolutions
+package pointers
 
 import "fmt"
 
