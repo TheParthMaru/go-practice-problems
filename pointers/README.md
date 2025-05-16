@@ -15,3 +15,5 @@
 4. Write a function resetSlice that accepts a pointer to a slice of integers `*[]int` and sets it to an empty slice. In main(), define a slice with some values, pass its pointer to resetSlice, and print it after to confirm it's empty.
 
 5. Write a function maxMin that accepts two `*int` arguments and returns two int values: the larger and the smaller of the two. In main(), define two variables, call maxMin with their pointers, and print the result.
+
+6. Write a function allocateSlice that takes an integer n and returns a pointer to a new slice of n zero-initialized integers. In main(), call the function with a value like 5, and print the slice via the returned pointer.
